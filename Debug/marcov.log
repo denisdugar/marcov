@@ -1,0 +1,5 @@
+﻿  marcov0.0.cpp
+c:\users\denis\source\repos\marcov\marcov\marcov0.0.cpp(20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\denis\source\repos\marcov\marcov\marcov0.0.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\denis\source\repos\marcov\marcov\marcov0.0.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+  marcov.vcxproj -> C:\Users\denis\source\repos\marcov\Debug\marcov.exe
